@@ -7,9 +7,11 @@
 
 
 h1{
-    color: rgb(11, 116, 20);
+    color: rgb(11, 116, 45);
     font-size: 40px;
     text-align: center;
+    positions:relative;
+    riht:20px;
 }
 
 .center ol li{
